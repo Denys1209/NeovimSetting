@@ -8,6 +8,7 @@
 :set mouse=a
 :set encoding=UTF-8
 :set clipboard=unnamedplus
+:colorscheme molokai
 call plug#begin()
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
 Plug 'https://github.com/preservim/tagbar'
