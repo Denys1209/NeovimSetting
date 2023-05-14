@@ -1,5 +1,5 @@
 
 # NeovimSetting
 
-First commit test
+settings for NeoVim
 
